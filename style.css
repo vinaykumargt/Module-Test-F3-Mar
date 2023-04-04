@@ -1,0 +1,29 @@
+.container{
+    background-color: antiquewhite;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+#current-image-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    width: 800px;
+    height: 400px;
+}
+
+p{
+    max-width: 800px;
+}
+
+.searchDate{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
